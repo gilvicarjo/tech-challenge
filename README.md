@@ -9,6 +9,13 @@ The following repository was design to attend the following environment.
 * Criação da infraestrutura (GCE, GKE, CloudSQL)
 * Subir um ambiente LAMP nos 2 cenários (GCE x CloudSQL e GKE x CloudSQL)
 
+## Links de Apoio
+
+* https://www.qwiklabs.com/quests/44?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=8743366
+* https://www.qwiklabs.com/focuses/1205?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8743366
+* https://www.qwiklabs.com/focuses/15845?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8743366
+* https://www.qwiklabs.com/focuses/15842?catalog_rank=%7B%22rank%22%3A11%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8743372
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
