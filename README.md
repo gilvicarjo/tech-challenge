@@ -1,6 +1,6 @@
 # Tech Challenge Documentation
 
-The following repository was design to attend the following environment.
+The following repository was design to attend the following guidelines.
 
 * Entendimento do escopo e planejamento
 * Utilizar Terraform (modular) para deploy da infra, usar state remoto
@@ -18,12 +18,11 @@ The following repository was design to attend the following environment.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone the following repository from [GitHub] (https://github.com/gilvicarjo/tech-challenge.git)
 
 ```bash
 git clone https://github.com/gilvicarjo/tech-challenge.git 
 ```
-
 ## Configuration
 
 ```bash
