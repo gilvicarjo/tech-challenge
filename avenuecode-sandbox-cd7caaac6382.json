@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avenuecode-sandbox",
+  "private_key_id": "cd7caaac63828b00811fee836ab38746f90e25c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyeSZWtm05uBkO\njTtNAFEhJ0ottmubWLFqf9mTJ1oJiS2kpcC3UL4KddXB+sFoJ0ogkMpZahYvcBwa\nPJiEZTAQcyEZpZMMuSu+sq1+IlnQ44R8m7KimxfmC0S+KV3FApD4+yPr/wXIWSGc\nd15UR00ngIXAcHa2olJa36P5xItaFq1ONB6uFGzor4i6f4k7WdXAV5yMMH12ZS8k\nCAim6bgcl+9ZnulHJUg9njVZwDBqgnNWVxh9q2Pv0DOoKRPrNFZeACNWLTqHnBCc\nWSKzqT8RPrFWjLuhQmo39PQ6Mzx0+RrmY4eWTn6CNBh9FkG1kh1TkYMLGVrxzisn\nkLx603otAgMBAAECggEAGLBdt10hGvz2qmarL2m9z2JKBqzXkfPhBySMiqjE8dDC\nOaacVD+dKoFGgsEXhDr7LCobc+cTDpjpqk97ocUFsyDaEVwwTXBINucszOgfmKAA\nseQwAAKIedBRQCUkzZ4fQ/Ip8/mhaSe7WJPCvtHmQHKtDgQAyB8IWX3ahzDDPkDt\nFzrPF4Pxt6Sgb9iN2jTZnrRL5VjgOLHOpYxqKSZRbtPhoGahHO14U1jEqXDvnDb9\npUpKvUQIBdpBXG1N1SApFIoMkiJ7UtwEhtLFgGSAjBza4QLwMzS/AK4s7Uz9qGn9\nxvPwv6tVQh14/StQJVR+GNav6ejPWK69c1+7m7HiWQKBgQD2dqFdF55ppR7mWLB6\nxSq+NSe+FkDKxQk22CBAf2Od4yfJE+41OmiUQm/yqkqy2402gbrNxjCFJgtTjX1R\nt126cCM/i1TrsjdASmF4Jmq3Pt0hJAQdCIEPthd5xWouKsNNTTo8fC19qWV23zZG\nkBtLh88Pa5TeqAPHkZWkvvfhawKBgQC5YQkeQO3RPSxyI6ibD/Hg1Q7tYU0eklqT\nnsfE1a2svnSZIkX60zq4IyJJoDjdBlQefuI07hG8AMSAlgypdFUpxiEUd+kKLcud\neBuTMd427r+Q0ogiLcPyC5Li5I0b6scbc0ZUbnGClcBBbA5A0WllC2JsYKQE+LC+\n5v0ZGvnAxwKBgQDQpGzGGhCI7rfR2JLN28vraaRTTxNalKLQQvZKo4z5RCuSFcU6\nWk/d8sBCddb2wtYwpnI1cOnyTdqYyNamLsyx3+x3BsTFIwGS82TACgWdSyJ3w72X\ntnNLkaMd+vmAS8M51X7PZXA9SQIUN7IC2kvBDR9EtpY4R5Orhptf9Cp0MQKBgBZh\nSKCGZi+kmwEMnQZbXnAuSKcP4CeYs6auvJ9ezKDWPW1fXeNyLNyeIT2SQksswGsO\nFnEdbLatwQtlEhJDISTx7nxyHYhFDxfrsCiNFK69FBN/1z+JFubZztnljcOZDICb\n4hm/W6TQP22mhfH9ViQEw9UhtauD+pKRgGzPfOdxAoGBAOV/ZQLg99SMCysdw7Ip\nU8bpLSk2k75Cro3Gf3pWFBexBKzjhZoXehLb3ca9ktZfFqrJ3BFwt/XdjledjyBF\nXgKHygzL+sxehGzoh/XqG04QuypEWzgn9fRhYnVtGeuJQTtu79AdxYlYHOAm/PGD\nHxZYSBHbSpqJADU0GmTGdt/4\n-----END PRIVATE KEY-----\n",
+  "client_email": "tech-challenge@avenuecode-sandbox.iam.gserviceaccount.com",
+  "client_id": "116527559055878275581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tech-challenge%40avenuecode-sandbox.iam.gserviceaccount.com"
+}
