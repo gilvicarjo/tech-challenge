@@ -16,6 +16,20 @@ The following repository was design to attend the following guidelines.
 * https://www.qwiklabs.com/focuses/15845?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8743366
 * https://www.qwiklabs.com/focuses/15842?catalog_rank=%7B%22rank%22%3A11%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=8743372
 
+## Prerequisites
+
+###### Terraform
+
+You can download and install Terraform via the following:
+
+`brew install terraform`
+
+###### Go
+
+You can download and install Go via the following:
+
+`brew install golang`
+
 ## Installation
 
 Clone the following repository from [GitHub] (https://github.com/gilvicarjo/tech-challenge.git)
